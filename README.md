@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/jashimuddin" target="blank"><img src="https://img.shields.io/twitter/follow/jashimuddin?logo=twitter&style=for-the-badge" alt="jashimuddin" /></a> </p>
 
-- 🔭 I’m currently working on [GamesPlanet](https://gamesplanet.mobi/)
+- 🔭 I’m currently working on Jango Games Web Portal
+
 
 - 🌱 I’m currently learning **JS, JQUERY , PHP , LARAVEL**
 
