@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashimuddin360" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashim-official75" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashimuddin360" alt="jashimuddin360" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashim-official75" alt="jashimuddin360" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jashimuddin" target="blank"><img src="https://img.shields.io/twitter/follow/jashimuddin?logo=twitter&style=for-the-badge" alt="jashimuddin" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [NaptechLabs](https://naptechlabs.co.uk/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jashimuddin360](https://github.com/jashimuddin360)
+- 👨‍💻 All of my projects are available at [https://github.com/jashimuddin360](https://github.com/jashim-official75)
 
 - 📝 I regularly write articles on [Facebook](Facebook)
 
