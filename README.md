@@ -1,3 +1,7 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jashim-officail75" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/jashim-officail75?trk=profile-badge">Jashim Uddin</a></div>
+              
+
 <h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg">
