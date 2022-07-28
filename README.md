@@ -9,6 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashim-official75" alt="jashimuddin360" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jashimuddin" target="blank"><img src="https://img.shields.io/twitter/follow/jashimuddin?logo=twitter&style=for-the-badge" alt="jashimuddin" /></a> </p>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 
 - 🔭 I’m currently working on Jango Games Web Portal
 
