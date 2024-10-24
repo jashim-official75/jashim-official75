@@ -7,7 +7,8 @@
 </p>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
-![banner](https://github.com/user-attachments/assets/f07fa672-4359-4df2-8d7c-a334211c1d6f)
+![banner](https://github.com/user-attachments/assets/d11b8298-be2a-4351-bb34-de2bc16fc4a7)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashim-official75" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashim-official75" alt="jashimuddin360" /></a> </p>
