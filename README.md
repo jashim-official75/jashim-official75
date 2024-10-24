@@ -15,9 +15,8 @@
 
 <p align="left"> <a href="https://twitter.com/jashimuddin" target="blank"><img src="https://img.shields.io/twitter/follow/jashimuddin?logo=twitter&style=for-the-badge" alt="jashimuddin" /></a> </p>
  
-<a href="https://join.skype.com/invite/q3BZeGyPj6V3" target="_blank">
-![banner](https://github.com/user-attachments/assets/d11b8298-be2a-4351-bb34-de2bc16fc4a7)
-</a>
+![image](https://github.com/user-attachments/assets/6191ec42-16e1-4cc8-9e2e-aa449db0a338)
+
 - 🔭 I’m currently working on Jango Games Web Portal
 
 
