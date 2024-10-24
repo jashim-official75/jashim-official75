@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
-![banner](https://github.com/user-attachments/assets/d11b8298-be2a-4351-bb34-de2bc16fc4a7)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashim-official75" /> </p>
 
@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/jashimuddin" target="blank"><img src="https://img.shields.io/twitter/follow/jashimuddin?logo=twitter&style=for-the-badge" alt="jashimuddin" /></a> </p>
  
 
-
+![banner](https://github.com/user-attachments/assets/d11b8298-be2a-4351-bb34-de2bc16fc4a7)
 
 - 🔭 I’m currently working on Jango Games Web Portal
 
