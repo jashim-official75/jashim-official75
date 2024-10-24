@@ -32,8 +32,12 @@
 
 - 📫 How to reach me **jashim.official75@gmail.com**
   <h1 align="center">My Some Projects Are Live On , You Can Look It Up </h1>
+  
 [![Project Image](https://raw.githubusercontent.com/jashim-official75/All_Project_Mockup/refs/heads/master/d2c774d6268a28c167194996f5c82ba455b040d2.png)](https://naptechgames.com/)
-[![Project Image](https://github.com/jashim-official75/All_Project_Mockup/blob/master/7cbf98b37798df3874cf858313056aec57b82c0f.png?raw=true)](https://kidyking.com/)
+<a href="https://kidyking.com/" target="_blank">
+    <img src="https://github.com/jashim-official75/All_Project_Mockup/blob/master/7cbf98b37798df3874cf858313056aec57b82c0f.png?raw=true" alt="Project Image" />
+</a>
+
 
 
 
