@@ -32,10 +32,8 @@
 
 - 📫 How to reach me **jashim.official75@gmail.com**
   <h1 align="center">My Some Projects Are Live On , You Can Look It Up </h1>
-<a href="https://ibb.co/Q9Z5GNw"><img src="[d2c774d6268a28c167194996f5c82ba455b040d2.png" alt="74ec837b19ed7c852a9990d9ff4c00391deeefe4](https://github.com/jashim-official75/All_Project_Mockup/blob/master/d2c774d6268a28c167194996f5c82ba455b040d2.png?raw=true)" border="0"></a>
-<a href="https://ibb.co/X8S277L"><img src="https://i.ibb.co/TLmv442/b9784098db47c65f4cd6acba0ea5daa7bac96cef.png" alt="b9784098db47c65f4cd6acba0ea5daa7bac96cef" border="0"></a>
-<a href="https://ibb.co/CsqK1qf"><img src="https://i.ibb.co/x8yqCyN/d465fb4a71093f45c0598123affd89410120db38-1.png" alt="d465fb4a71093f45c0598123affd89410120db38-1" border="0"></a>
-<a href="https://ibb.co/zVyTj5v"><img src="https://i.ibb.co/jkcPB5X/find-bd-doctor.png" alt="find-bd-doctor" border="0"></a>
+[![Project Image](https://raw.githubusercontent.com/jashim-official75/All_Project_Mockup/refs/heads/master/d2c774d6268a28c167194996f5c82ba455b040d2.png)](https://naptechgames.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
