@@ -31,7 +31,8 @@
 - 💬 Ask me about **Frond-End Developement**
 
 - 📫 How to reach me **jashim.official75@gmail.com**
-  <h1 align="center">My Some Projects Are Live On , You Can Look It Up </h1>
+  <h1 align="center">Some of my projects are live, and you can check them out here! </h1>
+  
   
 [![Project Image](https://raw.githubusercontent.com/jashim-official75/All_Project_Mockup/refs/heads/master/d2c774d6268a28c167194996f5c82ba455b040d2.png)](https://naptechgames.com/)
 <a href="https://kidyking.com/" target="_blank">
