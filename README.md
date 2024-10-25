@@ -16,6 +16,7 @@
   <li>Bootstrap, Tailwind CSS, Sass (CSS Preprocessor), BEM naming convention</li>
   <li>Git/GitHub, WordPress</li>
   <li>UI/UX tools: Figma, Adobe XD, Photoshop, Illustrator</li>
+   <li>Programmigng Language: C, Python , Java</li>
 </ul>
 
 
