@@ -2,6 +2,22 @@
               
 
 <h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
+<p>👋 Welcome to my GitHub profile! I'm a passionate front-end developer with a keen eye for creating intuitive, user-friendly, and responsive web designs. I enjoy turning complex problems into simple, elegant solutions with clean code and attention to detail.</p>
+
+<h3>🌟 Skills:</h3>
+<ul>
+  <li>HTML5, CSS3, JavaScript (ES6+)</li>
+  <li>React, Vue.js, Bootstrap, Tailwind CSS</li>
+  <li>Responsive Web Design, Accessibility</li>
+  <li>API integration, Git/GitHub</li>
+</ul>
+
+<h3>🚀 What I’m working on:</h3>
+<p>Building modern, fast, and user-centered web applications.</p>
+
+<h3>💡 Let’s connect:</h3>
+<p>Feel free to check out my repositories or connect with me to collaborate on exciting projects!</p>
+
 <p align="center">
 <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
