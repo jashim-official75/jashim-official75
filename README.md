@@ -12,11 +12,12 @@
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
 <h3>🌟 Skills:</h3>
 <ul>
-  <li>HTML5, CSS3, JavaScript (ES6+)</li>
-  <li>React, Vue.js, Bootstrap, Tailwind CSS</li>
-  <li>Responsive Web Design, Accessibility</li>
-  <li>API integration, Git/GitHub</li>
+  <li>HTML5, CSS3, JavaScript (ES6+), jQuery</li>
+  <li>Bootstrap, Tailwind CSS, Sass (CSS Preprocessor), BEM naming convention</li>
+  <li>Git/GitHub, WordPress</li>
+  <li>UI/UX tools: Figma, Adobe XD, Photoshop, Illustrator</li>
 </ul>
+
 
 <h3>🚀 What I’m working on:</h3>
 <p>Building modern, fast, and user-centered web applications.</p>
