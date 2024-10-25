@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
 <p>👋 Welcome to my GitHub profile! I'm a passionate front-end developer with a keen eye for creating intuitive, user-friendly, and responsive web designs. I enjoy turning complex problems into simple, elegant solutions with clean code and attention to detail.</p>
 
+
+<p align="center">
+<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
+<img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
 <h3>🌟 Skills:</h3>
 <ul>
   <li>HTML5, CSS3, JavaScript (ES6+)</li>
@@ -17,12 +23,6 @@
 
 <h3>💡 Let’s connect:</h3>
 <p>Feel free to check out my repositories or connect with me to collaborate on exciting projects!</p>
-
-<p align="center">
-<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
-<img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashim-official75" /> </p>
