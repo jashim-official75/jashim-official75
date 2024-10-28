@@ -28,12 +28,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jashimuddin360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jashimuddin360" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jashim.u75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="jashim.u75" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jashim-u75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="jashim-u75" height="30" width="40" /></a>
-<a href="https://join.skype.com/invite/q3BZeGyPj6V3" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/skype/skype-original.svg" alt="jashim.u75" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jashim.u75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="jashim.u75" height="30" width="40" /></a>
+    <a href="https://codepen.io/jashimuddin360" target="_blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/codepen.png" alt="jashimuddin360" height="30" width="30" /></a>
+    <a href="https://www.facebook.com/jashim.u75/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="jashim.u75" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/jashim-u75/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="jashim-u75" height="30" width="30" /></a>
+    <a href="https://join.skype.com/invite/q3BZeGyPj6V3" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/skype.png" alt="jashim.u75" height="30" width="30" /></a>
+    <a href="https://www.instagram.com/jashim.u75/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="jashim.u75" height="30" width="30" /></a>
 </p>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashim-official75" /> </p>
