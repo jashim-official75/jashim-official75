@@ -28,13 +28,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/jashimuddin360" target="_blank"><img align="center" src="https://img.icons8.com/windows/32/000000/codepen.png" alt="jashimuddin360" height="30" width="30" /></a>
-    <a href="https://www.facebook.com/jashim.u75/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="jashim.u75" height="30" width="30" /></a>
-    <a href="https://www.linkedin.com/in/jashim-u75/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="jashim-u75" height="30" width="30" /></a>
-    <a href="https://join.skype.com/invite/q3BZeGyPj6V3" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/skype.png" alt="jashim.u75" height="30" width="30" /></a>
-    <a href="https://www.instagram.com/jashim.u75/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="jashim.u75" height="30" width="30" /></a>
+    <a href="https://codepen.io/jashimuddin360" target="_blank">
+        <img align="center" src="https://img.icons8.com/ios/50/ffffff/codepen.png" alt="jashimuddin360" height="30" width="30" />
+    </a>
+    <a href="https://www.facebook.com/jashim.u75/" target="_blank">
+        <img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="jashim.u75" height="30" width="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/jashim-u75/" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="jashim-u75" height="30" width="30" />
+    </a>
+    <a href="https://join.skype.com/invite/q3BZeGyPj6V3" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/skype.png" alt="jashim.u75" height="30" width="30" />
+    </a>
+    <a href="https://www.instagram.com/jashim.u75/" target="_blank">
+        <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="jashim.u75" height="30" width="30" />
+    </a>
 </p>
-
 
 
 
