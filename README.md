@@ -10,15 +10,56 @@
 </p>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
-<h3>🌟 Skills:</h3>
-<ul>
-  <li>HTML5, CSS3, JavaScript (ES6+), jQuery</li>
-  <li>Bootstrap, Tailwind CSS, Sass (CSS Preprocessor), BEM naming convention</li>
-  <li>Git/GitHub, WordPress</li>
-  <li>UI/UX tools: Figma, Adobe XD, Photoshop, Illustrator</li>
-   <li>Programmigng Language: C, Python , Java</li>
-</ul>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px; background-color: #0d1117; border-radius: 10px;">
 
+<!-- 💻 Languages -->
+<img src="https://img.icons8.com/color/60/html-5--v1.png" alt="HTML5" title="HTML5" width="60"/>
+<img src="https://img.icons8.com/color/60/css3.png" alt="CSS3" title="CSS3" width="60"/>
+<img src="https://img.icons8.com/color/60/javascript--v1.png" alt="JavaScript" title="JavaScript" width="60"/>
+<img src="https://img.icons8.com/color/60/c-programming.png" alt="C Language" title="C Language" width="60"/>
+
+<!-- 🎨 Styling -->
+<img src="https://img.icons8.com/color/60/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="60"/>
+<img src="https://img.icons8.com/color/60/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60"/>
+<img src="https://img.icons8.com/color/60/sass.png" alt="Sass" title="Sass" width="60"/>
+<img src="https://img.icons8.com/color/60/css3.png" alt="CSS Modules" title="CSS Modules" width="60"/>
+
+<!-- ⚛️ Frameworks & Libraries -->
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" title="React" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="60" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+<img src="https://img.icons8.com/ios-filled/60/ffffff/jquery.png" alt="jQuery" title="jQuery" width="60"/>
+<img src="https://assets.codepen.io/16327/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1688741522&width=512" alt="GSAP" title="GSAP" width="60" style="border-radius: 50%; background-color: white;"/>
+
+<!-- 🌐 CMS & Platforms -->
+<img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" title="Shopify" width="60"/>
+<img src="https://img.icons8.com/color/60/wordpress.png" alt="WordPress" title="WordPress" width="60"/>
+
+<!-- 🎨 Design Tools -->
+<img src="https://img.icons8.com/color/60/figma--v1.png" alt="Figma" title="Figma" width="60"/>
+<img src="https://img.icons8.com/color/60/adobe-xd.png" alt="Adobe XD" title="Adobe XD" width="60"/>
+<img src="https://img.icons8.com/color/60/canva.png" alt="Canva" title="Canva" width="60"/>
+<img src="https://img.icons8.com/color/60/adobe-photoshop.png" alt="Photoshop" title="Photoshop" width="60"/>
+<img src="https://img.icons8.com/color/60/adobe-illustrator.png" alt="Illustrator" title="Illustrator" width="60"/>
+
+<!-- 🧰 Tools -->
+<img src="https://img.icons8.com/color/60/git.png" alt="Git" title="Git" width="60"/>
+<img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" alt="GitHub" title="GitHub" width="60"/>
+<img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="60" style="background-color:white; border-radius:4px; padding:2px;"/>
+<img src="https://img.icons8.com/color/60/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="60"/>
+<img src="https://img.icons8.com/color/60/codepen.png" alt="CodePen" title="CodePen" width="60"/>
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" title="Vercel" width="60"/>
+<img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" title="Netlify" width="60"/>
+
+<!-- 🖥 Node.js -->
+<img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" width="60"/>
+
+<!-- 📝 TypeScript -->
+<img src="https://img.icons8.com/color/60/typescript.png" alt="TypeScript" title="TypeScript" width="60"/>
+
+<!-- 🔴 Redux -->
+<img src="https://img.icons8.com/color/60/redux.png" alt="Redux" title="Redux" width="60"/>
+
+</div>
 
 [<a href=""><img src=""></a>](https://private-user-images.githubusercontent.com/72647659/403708514-b4d5a8bb-b1f7-457b-b874-821556393a7d.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcwMDcyOTksIm5iZiI6MTczNzAwNjk5OSwicGF0aCI6Ii83MjY0NzY1OS80MDM3MDg1MTQtYjRkNWE4YmItYjFmNy00NTdiLWI4NzQtODIxNTU2MzkzYTdkLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE2VDA1NTYzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmOTAzMGVhMjVlOWE2MGM1Yjc0MDY1NmYyZGE3N2E3ZDQzYmJhMTc4ZDg4ZmU4YTg2NGE4NWQwMGI4NjI4NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3rPVf13rJLOTU-5au0Iq7mUP8kL-DUelGVozPyw3F-I)
 
