@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
 <p>👋 Welcome to my GitHub profile! I'm a passionate front-end developer with a keen eye for creating intuitive, user-friendly, and responsive web designs. I enjoy turning complex problems into simple, elegant solutions with clean code and attention to detail.</p>
 
-
+<h3>🚀 Tech Stack:</h3>
 <p align="center">
 <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
@@ -61,7 +61,7 @@
 
 </div>
 
-[<a href=""><img src=""></a>](https://private-user-images.githubusercontent.com/72647659/403708514-b4d5a8bb-b1f7-457b-b874-821556393a7d.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcwMDcyOTksIm5iZiI6MTczNzAwNjk5OSwicGF0aCI6Ii83MjY0NzY1OS80MDM3MDg1MTQtYjRkNWE4YmItYjFmNy00NTdiLWI4NzQtODIxNTU2MzkzYTdkLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE2VDA1NTYzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmOTAzMGVhMjVlOWE2MGM1Yjc0MDY1NmYyZGE3N2E3ZDQzYmJhMTc4ZDg4ZmU4YTg2NGE4NWQwMGI4NjI4NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3rPVf13rJLOTU-5au0Iq7mUP8kL-DUelGVozPyw3F-I)
+
 
 <h3>🚀 What I’m working on:</h3>
 <p>Building modern, fast, and user-centered web applications.</p>
