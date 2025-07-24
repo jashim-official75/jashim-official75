@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px; background-color: #0d1117; border-radius: 10px;">
-<h3>🚀 Tech Stack:</h3>
+<h2>🚀 Tech Stack:</h2>
 <!-- 💻 Languages -->
 <img src="https://img.icons8.com/color/60/html-5--v1.png" alt="HTML5" title="HTML5" width="60"/>
 <img src="https://img.icons8.com/color/60/css3.png" alt="CSS3" title="CSS3" width="60"/>
