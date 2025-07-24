@@ -4,14 +4,14 @@
 <h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
 <p>👋 Welcome to my GitHub profile! I'm a passionate front-end developer with a keen eye for creating intuitive, user-friendly, and responsive web designs. I enjoy turning complex problems into simple, elegant solutions with clean code and attention to detail.</p>
 
-<h3>🚀 Tech Stack:</h3>
+
 <p align="center">
 <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px; background-color: #0d1117; border-radius: 10px;">
-
+<h3>🚀 Tech Stack:</h3>
 <!-- 💻 Languages -->
 <img src="https://img.icons8.com/color/60/html-5--v1.png" alt="HTML5" title="HTML5" width="60"/>
 <img src="https://img.icons8.com/color/60/css3.png" alt="CSS3" title="CSS3" width="60"/>
